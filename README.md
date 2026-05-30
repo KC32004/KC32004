@@ -2,7 +2,7 @@
 
 # K Chandana
 
-**AI & Data Science Engineer · Final Year @ [College Name]**
+**AI & Data Science Engineer · Graduate @ SDM Institute of Technology **
 
 *Building at the intersection of computer vision, full-stack dev, and GenAI.*
 
