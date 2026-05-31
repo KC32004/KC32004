@@ -57,9 +57,9 @@ overlay clothing, and see how it fits.
 
 ### [Project 4 name] - *coming soon*
 [One line. What problem does it solve?]  
-`Stack`--->
+`Stack`
 
----
+--->
 
 ## 📌 A bit more
 
