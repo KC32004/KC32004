@@ -77,4 +77,4 @@ Open to opportunities where I can build real things.
 
 💼 [linkedin.com/in/k-chandana-ai](https://linkedin.com/in/k-chandana-ai)  
 🌐 [k-chandana.vercel.app](https://k-chandana.vercel.app)  
-📧 your.email@gmail.com
+📧 kchandana.200432@gmail.com
