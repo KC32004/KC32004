@@ -1,69 +1,80 @@
-<div align="center">
+# Hi, I'm Chandana 👋
 
-# K Chandana
+AI & Data Science graduate from SDMIT (VTU, 2025) — I build things that 
+work outside the classroom.
 
-**AI & Data Science Engineer · Graduate @ SDM Institute of Technology**
+Most recently: a production asset management system deployed internally 
+at HAL (Hindustan Aeronautics Limited), one of India's largest aerospace 
+organisations. Before that: a computer vision app that puts clothes on you 
+in real time.
 
-*Building at the intersection of computer vision, full-stack dev, and GenAI.*
+I like the gap between "AI prototype" and "thing people actually use."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-chandana-ai)
-[![VogueVista](https://img.shields.io/badge/🚀_VogueVista_AR_Try--On-Live-brightgreen)](https://voguevista.vercel.app)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KC32004.KC32004)
-
-</div>
----
-
-### 👩‍💻 About Me
-
-Final-year engineering student passionate about making AI tangible — whether that's a virtual try-on mirror, a generative pipeline, or a full-stack data app.
-
-- 🔭 Currently building **VogueVista** — an AR-powered fashion try-on experience
-- 🧠 Exploring **GenAI, LLMs, and computer vision** for real-world applications
-- 🌱 Learning the edge between research and production-grade deployment
-- 💬 Ask me about OpenCV, React, or making AI prototypes that actually ship
+🌐 **Portfolio → [k-chandana.vercel.app](https://k-chandana.vercel.app)**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 What I build with
 
-**AI / ML**
-`Python` · `OpenCV` · `TensorFlow / PyTorch` · `GenAI / LLMs`
-
-**Full-Stack**
-`React` · `ASP.NET` · `REST APIs`
-
-**Data & Databases**
-`MongoDB` · `SQL Server` · `Pandas`
+**Languages:** Python · C# · SQL · JavaScript  
+**Frameworks:** ASP.NET Core MVC · Flask · React · Bootstrap  
+**AI / CV:** OpenCV · TensorFlow · PyTorch  
+**Data:** Pandas · NumPy · SQL Server · MongoDB  
+**Tools:** Git · Visual Studio · Chart.js · ClosedXML · REST APIs
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Projects
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **VogueVista AR Try-On** | Real-time AR fashion try-on using computer vision | Python · OpenCV · React | [voguevista.vercel.app](https://voguevista.vercel.app) |
+### Smart Asset Management System
+> Internship project · HAL Foundry & Forge Division, Bengaluru
 
----
+Full-stack web app for tracking and managing industrial assets across 
+departments at HAL. Built from scratch, used in production.
 
-### 📈 GitHub Stats
+- Excel bulk upload with row-level validation
+- Real-time analytics dashboard with charts
+- PDF and Excel export for reporting
+- Role-based access, CRUD operations throughout
 
-<div align="center">
-
-<!-- ![K Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KC32004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KC32004&layout=compact&theme=tokyonight&hide_border=true) -->
-
-</div>
+`ASP.NET Core MVC` `C#` `SQL Server` `ClosedXML` `Chart.js` `Bootstrap`  
+[View repo →](https://github.com/KC32004/Smart-Asset-Management-)
 
 ---
 
-### 📫 Connect
+### VogueVista — AR Fashion Try-On
+Real-time virtual try-on using computer vision. Upload a photo, 
+overlay clothing, see how it fits.
 
-- 💼 [linkedin.com/in/k-chandana-ai](https://linkedin.com/in/k-chandana-ai)
-- 🌐 [voguevista.vercel.app](https://voguevista.vercel.app)
+`Python` `OpenCV` `Flask` `React`  
+[Live demo →](https://voguevista.vercel.app) · [View repo →](https://github.com/KC32004/VogueVista)
 
 ---
 
-<div align="center">
-  <sub>✨ Open to research collaborations, internships & AI projects</sub>
-</div>
+### [Project 3 name] — *coming soon*
+[One line. What problem does it solve?]  
+`Stack`
+
+### [Project 4 name] — *coming soon*
+[One line. What problem does it solve?]  
+`Stack`
+
+---
+
+## 📌 A bit more
+
+- 🏆 1st place · Yugma TechFest Hackathon
+- 📋 NCC 'A' Certificate
+- 🎓 B.E. in AI & Data Science · CGPA 8.33 · SDMIT, Ujire (VTU)
+- 🌍 Based in Karnataka, India
+
+---
+
+## 📫 Let's connect
+
+I'm looking for full-time roles in **AI/ML**, **data analytics**, 
+or **full-stack development**.
+
+💼 [linkedin.com/in/k-chandana-ai](https://linkedin.com/in/k-chandana-ai)  
+🌐 [k-chandana.vercel.app](https://k-chandana.vercel.app)  
+📧 your.email@gmail.com
