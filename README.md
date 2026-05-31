@@ -51,13 +51,13 @@ overlay clothing, and see how it fits.
 
 ---
 
-### [Project 3 name] - *coming soon*
+<!---### [Project 3 name] - *coming soon*
 [One line. What problem does it solve?]  
 `Stack`
 
 ### [Project 4 name] - *coming soon*
 [One line. What problem does it solve?]  
-`Stack`
+`Stack`--->
 
 ---
 
