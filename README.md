@@ -1,6 +1,6 @@
 # Hi, I'm K Chandana 👋
 
-AI & Data Science graduate from SDMIT (VTU, 2025) - I build things that 
+AI & Data Science graduate from SDMIT (VTU, 2026) - I build things that 
 work outside the classroom.
 
 Most recently: a production asset management system deployed internally 
